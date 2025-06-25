@@ -14,7 +14,7 @@ Hi, I’m Hasanuzzaman Joy, a Full-Stack Developer specializing in MERN stack. I
 
 ## 🔥 Current Activities
 
-- 🚀 Exploring **Next.js** and server-side rendering  
+- 🚀 Exploring **React.js** and server-side rendering  
 - 🌍 Building a **plant care website** as a portfolio project  
 - 🧩 Learning **advanced authentication and Firebase security rules**  
 - 🎥 Sharing **React tutorials** on my page [The Stack Master](https://facebook.com/thestackmaster)
