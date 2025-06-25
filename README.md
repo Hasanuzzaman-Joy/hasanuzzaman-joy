@@ -1,15 +1,14 @@
 <!-- Full-width banner -->
 <img src="https://github.com/Hasanuzzaman-Joy/hasanuzzaman-joy/blob/main/github-cover.png" alt="GitHub Banner" width="100%" />
 
-## 👋 Hello! I'm Hasanuzzaman Joy  
+##  Hasanuzzaman Joy  
 ### 💻 Frontend & MERN Developer
 
 ---
 
 ## 🧑‍💼 About Me
 
-Passionate and self-driven web developer with 5+ years of hands-on experience in both frontend and full-stack projects.  
-I focus on creating clean, responsive, and user-friendly web applications using the MERN stack.
+Hi, I’m Hasanuzzaman Joy, a Full-Stack Developer specializing in MERN stack. I build clean, responsive web apps and love solving problems with code. Experienced in React, Node.js, MongoDB, and modern frontend tools. Always eager to learn and collaborate.
 
 ---
 
