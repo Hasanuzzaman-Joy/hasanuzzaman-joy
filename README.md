@@ -46,16 +46,7 @@ I focus on creating clean, responsive, and user-friendly web applications using 
 [![Email](https://img.shields.io/badge/Email-joy.hasanuzzaman%40email.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:joy.hasanuzzaman@email.com)
 [![Fiverr](https://img.shields.io/badge/Fiverr-Available-brightgreen?style=flat-square&logo=fiverr)](https://www.fiverr.com/wg_designer84/)
 
-
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasanuzzamanjoy&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasanuzzamanjoy&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanuzzamanjoy&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ```javascript
 const thai = {
@@ -71,5 +62,16 @@ const thai = {
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
+
+## 📊 GitHub Stats
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=hasanuzzaman-joy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=hasanuzzaman-joy&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanuzzaman-joy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=hasanuzzaman-joy&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
