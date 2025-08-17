@@ -26,8 +26,9 @@ Hi, I’m Hasanuzzaman Joy, a Full-Stack Developer specializing in MERN stack. I
 
 <h3 align="center" > 🚀 Languages - Frameworks - Tools - Libraries - Workspace 🚀</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=Typescript, Javascript, Nextjs, Reactjs, Expressjs, MongoDB, Nodejs, Firebase, Tailwind CSS, Bootstrap, HTML, CSS, API, Vercel, XD, PSD" 
- </p>
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,nextjs,react,express,mongodb,nodejs,firebase,tailwind,bootstrap,html,css,vercel" />
+</p>
+
   
 <hr>
 
