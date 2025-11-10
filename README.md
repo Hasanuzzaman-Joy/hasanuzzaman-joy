@@ -13,7 +13,6 @@ A frontend developer who loves creating interactive and user-friendly web applic
     <!-- Left Column: Current Activities -->
     <td valign="top" style="padding: 15px; border: 1px solid #ccc; border-radius: 10px; background-color:#1e1e1e; color:white; width:50%;">
       <h3 style="text-align:center;">🔥 Current Activities</h3>
-      ---
       <ul>
         <li>🚀 Learning <strong>full-stack development</strong> and improving coding skills</li>
         <li>🌱 Working on <strong>personal web projects</strong> to gain hands-on experience</li>
@@ -22,8 +21,7 @@ A frontend developer who loves creating interactive and user-friendly web applic
       </ul>
     </td>
     <td valign="top" style="padding: 15px; border: 1px solid #ccc; border-radius: 10px; background-color:#1e1e1e; color:white; text-align:center; width:50%;">
-      <h3 style="text-align:center;">🔥 Coding GIF</h3>
-      <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300" alt="Coding GIF"/>
+      <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="100%" alt="Coding GIF"/>
     </td>
   </tr>
 </table>
