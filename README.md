@@ -4,8 +4,8 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/Hasanuzzaman-Joy/hasanuzzaman-joy/main/name.svg" alt="Joy Frontend Developer" />
 </h1>
-<p>
-A frontend developer who loves creating interactive and user-friendly web applications 💻 . I enjoy tackling challenges, writing clean code, and learning new things while collaborating with others 🤝. I work with the MERN stack, TypeScript, and Next.js to build smooth and engaging web apps 🧩.
+<p align="center">
+A frontend developer who loves creating interactive and user-friendly web applications  . I enjoy tackling challenges, writing clean code, and learning new things while collaborating with others. I work with the MERN stack, TypeScript, and Next.js to build smooth and engaging web apps 🧩.
 </p>
 
 <table>
@@ -27,25 +27,7 @@ A frontend developer who loves creating interactive and user-friendly web applic
   </tr>
 </table>
 
-
-
-
-
-
-
----
-
-## 🔥 Current Activities
-
-- 🚀 Exploring **React.js** and server-side rendering  
-- 🌍 Building a **plant care website** as a portfolio project  
-- 🧩 Learning **advanced authentication and Firebase security rules**  
-- 🎥 Sharing **React tutorials** on my page [The Stack Master](https://facebook.com/thestackmaster)
-
----
-
 ## 🚀 Tech Stack
-
 
 <h3 align="center" > 🚀 Languages - Frameworks - Tools - Libraries - Workspace 🚀</h3>
 <p align="center">
