@@ -5,38 +5,43 @@
   <img src="https://raw.githubusercontent.com/Hasanuzzaman-Joy/hasanuzzaman-joy/main/name.svg" alt="Joy Frontend Developer" />
 </h1>
 
-<p align="center" style="font-size:16px; line-height:30px">
-A frontend developer who loves creating interactive and user-friendly web applications 💻. I enjoy tackling challenges, writing clean code, and learning new things while collaborating with others 🤝. I work with the MERN stack, TypeScript, and Next.js to build smooth and engaging web apps 🧩.
+<p>
+A frontend developer who loves creating interactive and user-friendly web applications. I enjoy tackling challenges, writing clean code, and learning new things while collaborating with others. I work with the MERN stack, TypeScript, and Next.js to build smooth and engaging web apps 🧩.
 </p>
 
-<h2>🔥 Current Activities</h2>
+<br>
+
+## 🔥 Current Activities
 
 <div align="center">
 
 <!-- List + GIF in one block -->
 <table>
   <tr>
-    <td valign="top" style="padding:25px; text-align:left; color:white;">
+    <td>
+      <br>
       <ul>
         <li>🚀 Learning <strong>full-stack development</strong> and improving coding skills</li><br>
         <li>🌱 Working on <strong>personal web projects</strong> to gain hands-on experience</li><br>
         <li>🎥 Planning to create <strong>YouTube tutorials</strong> for web development</li><br>
         <li>🤝 Exploring ways to <strong>collaborate and learn</strong> from the developer community</li>
       </ul>
+      <br>
     </td>
-    <td valign="top" style="padding:15px; text-align:center;">
-      <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300" alt="Coding GIF"/>
+    <td>
+      <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="100%" alt="Coding GIF"/>
     </td>
   </tr>
 </table>
-
-
-
 </div>
+
+<br>
 
 ## 💻 Languages and Tools
 
 <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,bootstrap,tailwind,nodejs,express,mongodb,firebase,vercel,git,github,vscode,figma,postman" alt="Tech Stack" />
+
+<br>
 
 ## 🌐 Connect With Me
 
@@ -46,6 +51,7 @@ A frontend developer who loves creating interactive and user-friendly web applic
 [![Fiverr](https://img.shields.io/badge/Fiverr-Available-brightgreen?style=flat-square&logo=fiverr)](https://www.fiverr.com/wg_designer84/) &nbsp;
 [![Upwork](https://img.shields.io/badge/Upwork-Available-lightgreen?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~012455860f3841ba7c?mp_source=share)
 
+<br>
 
 ## 📊 GitHub Stats
 
