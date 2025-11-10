@@ -5,28 +5,30 @@
   <img src="https://raw.githubusercontent.com/Hasanuzzaman-Joy/hasanuzzaman-joy/main/name.svg" alt="Joy Frontend Developer" />
 </h1>
 <p>
-   a frontend developer who loves creating interactive and user-friendly web applications 💻 . I enjoy tackling challenges, writing clean code, and learning new things while collaborating with others 🤝. I work with the MERN stack, TypeScript, and Next.js to build smooth and engaging web apps 🧩.
+A frontend developer who loves creating interactive and user-friendly web applications 💻 . I enjoy tackling challenges, writing clean code, and learning new things while collaborating with others 🤝. I work with the MERN stack, TypeScript, and Next.js to build smooth and engaging web apps 🧩.
 </p>
 
-<div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 40px;">
+<table>
+  <tr>
+    <!-- Left Column: Activities -->
+    <td valign="top" style="padding: 10px; border: 1px solid #ccc; border-radius: 10px; background-color:#1e1e1e; color:white;">
+      <h3 style="text-align:center;">🔥 Current Activities</h3>
+      <ul>
+        <li>🚀 Learning <strong>full-stack development</strong> and improving coding skills</li>
+        <li>🌱 Working on <strong>personal web projects</strong> to gain hands-on experience</li>
+        <li>🎥 Planning to create <strong>YouTube tutorials</strong> for web development</li>
+        <li>🤝 Exploring ways to <strong>collaborate and learn</strong> from the developer community</li>
+      </ul>
+    </td>
 
-  <!-- Left Column: Current Activities -->
-  <div style="flex: 1; min-width: 250px;">
-    <h3>🔥 Current Activities</h3>
-    <ul>
-      <li>🚀 Learning <strong>full-stack development</strong> and improving my coding skills</li>
-      <li>🌱 Working on <strong>personal web projects</strong> to gain hands-on experience</li>
-      <li>🎥 Planning to create <strong>YouTube tutorials</strong> for web development</li>
-      <li>🤝 Exploring ways to <strong>collaborate and learn</strong> from the developer community</li>
-    </ul>
-  </div>
+    <!-- Right Column: GIF -->
+    <td valign="top" style="padding: 10px; border: 1px solid #ccc; border-radius: 10px; background-color:#1e1e1e; text-align:center; color:white;">
+      <h3 style="text-align:center;">🔥 Current Activities</h3>
+      <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300" alt="Coding GIF"/>
+    </td>
+  </tr>
+</table>
 
-  <!-- Right Column: Image -->
-  <div style="flex: 1; min-width: 250px; text-align: center;">
-    <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300" alt="Coding GIF"/>
-  </div>
-
-</div>
 
 
 
