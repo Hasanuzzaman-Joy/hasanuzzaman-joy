@@ -5,11 +5,22 @@
   <img src="https://raw.githubusercontent.com/Hasanuzzaman-Joy/hasanuzzaman-joy/main/name.svg" alt="Joy Frontend Developer" />
 </h1>
 
----
+<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <!-- About Me Text -->
+  <div style="flex: 1; min-width: 250px;">
+    <p>
+      I’m a frontend developer who loves creating fun and user-friendly web experiences 📚. 
+      I enjoy tackling challenges, writing clean code, and learning new things while collaborating with others 🤝. 
+      I work with the MERN stack, TypeScript, and Next.js to build smooth and interactive web apps 🧩.
+    </p>
+  </div>
 
-## 🧑‍💼 About Me
+  <!-- GIF Image -->
+  <div style="flex: 1; min-width: 250px; text-align: center;">
+    <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300" />
+  </div>
+</div>
 
-Hi, I’m Hasanuzzaman Joy, a Full-Stack Developer specializing in MERN stack. I build clean, responsive web apps and love solving problems with code. Experienced in React, Node.js, MongoDB, and modern frontend tools. Always eager to learn and collaborate.
 
 ---
 
