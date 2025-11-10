@@ -9,8 +9,6 @@
 A frontend developer who loves creating interactive and user-friendly web applications 💻. I enjoy tackling challenges, writing clean code, and learning new things while collaborating with others 🤝. I work with the MERN stack, TypeScript, and Next.js to build smooth and engaging web apps 🧩.
 </p>
 
----
-
 <h2>🔥 Current Activities</h2>
 
 <div align="center">
@@ -36,44 +34,22 @@ A frontend developer who loves creating interactive and user-friendly web applic
 
 </div>
 
----
+## 💻 Languages and Tools
 
-## 🚀 Tech Stack
-
-<h3>Languages</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript" />
-</p>
-
-<h3>Frontend Frameworks & Libraries</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind" />
-</p>
-
-<h3>Backend & Databases</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
-</p>
-
-<h3>Tools & Platforms</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=vercel,git,github,vscode,figma,postman" />
-</p>
-
-<hr>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,bootstrap,tailwind,nodejs,express,mongodb,firebase,vercel,git,github,vscode,figma,postman" alt="Tech Stack" />
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hasanuzzaman%20Joy-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hasanuzzaman-joy-142916214/)
-[![Email](https://img.shields.io/badge/Email-joy.hasanuzzaman%40email.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:joy.hasanuzzaman@email.com)
-[![Fiverr](https://img.shields.io/badge/Fiverr-Available-brightgreen?style=flat-square&logo=fiverr)](https://www.fiverr.com/wg_designer84/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hasanuzzaman%20Joy-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hasanuzzaman-joy-142916214/) &nbsp;
+[![Email](https://img.shields.io/badge/Email-joy.hasanuzzaman%40email.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:joy.hasanuzzaman@email.com) &nbsp;
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/+8801407046103) &nbsp;
+[![Fiverr](https://img.shields.io/badge/Fiverr-Available-brightgreen?style=flat-square&logo=fiverr)](https://www.fiverr.com/wg_designer84/) &nbsp;
+[![Upwork](https://img.shields.io/badge/Upwork-Available-lightgreen?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~012455860f3841ba7c?mp_source=share)
 
----
 
 ## 📊 GitHub Stats
 
 ![](https://nirzak-streak-stats.vercel.app/?user=hasanuzzaman-joy&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanuzzaman-joy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
 [![](https://visitcount.itsvg.in/api?id=hasanuzzaman-joy&icon=0&color=0)](https://visitcount.itsvg.in)
