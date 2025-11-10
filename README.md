@@ -2,7 +2,7 @@
 <img src="https://github.com/Hasanuzzaman-Joy/hasanuzzaman-joy/blob/main/github-cover.png" alt="GitHub Banner" width="100%" />
 
 <h1 align="center">
-  <img src="./name.svg" alt="Joy Frontend Developer" />
+  <img src="/name.svg" alt="Joy Frontend Developer" />
 </h1>
 
 ##  Hasanuzzaman Joy  
