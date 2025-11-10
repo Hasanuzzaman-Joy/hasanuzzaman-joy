@@ -45,7 +45,7 @@ A frontend developer who loves creating interactive and user-friendly web applic
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hasanuzzaman%20Joy-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/hasanuzzaman-joy) &nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hasanuzzaman%20Joy-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hasanuzzaman-joy-142916214/) &nbsp;
 [![Email](https://img.shields.io/badge/Email-joy.hasanuzzaman%40email.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:joy.hasanuzzaman@email.com) &nbsp;
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/+8801407046103) &nbsp;
 [![Fiverr](https://img.shields.io/badge/Fiverr-Available-brightgreen?style=flat-square&logo=fiverr)](https://www.fiverr.com/wg_designer84/) &nbsp;
