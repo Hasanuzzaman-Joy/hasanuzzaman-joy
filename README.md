@@ -11,9 +11,7 @@ A frontend developer who loves creating interactive and user-friendly web applic
 
 ---
 
-## 🔥 Current Activities
-
-<h3 align="center">🔥 Current Activities</h3>
+<h2>🔥 Current Activities</h2>
 
 <div align="center">
 
@@ -21,10 +19,10 @@ A frontend developer who loves creating interactive and user-friendly web applic
 <table>
   <tr>
     <td valign="top" style="padding:15px; text-align:left; color:white;">
-      <ul>
-        <li>🚀 Learning <strong>full-stack development</strong> and improving coding skills</li>
-        <li>🌱 Working on <strong>personal web projects</strong> to gain hands-on experience</li>
-        <li>🎥 Planning to create <strong>YouTube tutorials</strong> for web development</li>
+      <ul style="padding-left: 20px;">
+        <li>🚀 Learning <strong>full-stack development</strong> and improving coding skills</li><br>
+        <li>🌱 Working on <strong>personal web projects</strong> to gain hands-on experience</li><br>
+        <li>🎥 Planning to create <strong>YouTube tutorials</strong> for web development</li><br>
         <li>🤝 Exploring ways to <strong>collaborate and learn</strong> from the developer community</li>
       </ul>
     </td>
@@ -33,6 +31,8 @@ A frontend developer who loves creating interactive and user-friendly web applic
     </td>
   </tr>
 </table>
+
+
 
 </div>
 
