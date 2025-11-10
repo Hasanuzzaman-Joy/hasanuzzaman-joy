@@ -1,97 +1,53 @@
-<svg fill="none" viewBox="0 0 800 150" width="800" height="150" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        @keyframes gradientText {
-          0% { background-position: 0% 50%; }
-          50% { background-position: 100% 50%; }
-          100% { background-position: 0% 50%; }
-        }
+<svg viewBox="0 0 800 100" width="800" height="100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Rainbow gradient text -->
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff0000">
+        <animate attributeName="stop-color" values="#ff0000;#ff9900;#ffee00;#00ff00;#0099ff;#8e2de2;#ff0000" dur="5s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#ff9900">
+        <animate attributeName="stop-color" values="#ff9900;#ffee00;#00ff00;#0099ff;#8e2de2;#ff0000;#ff9900" dur="5s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
 
-        @keyframes snowflakes-fall { 0% { top: -10%; } 100% { top: 100%; } }
-        @keyframes snowflakes-shake {
-          0%,100% { transform: translateX(0); }
-          50% { transform: translateX(80px); }
-        }
+  <!-- Name -->
+  <text x="50%" y="40" text-anchor="middle" font-family="Inter, sans-serif" font-size="40" font-weight="900" fill="url(#grad)">
+    Hasanuzzaman Joy
+  </text>
 
-        @keyframes typing {
-          from { width: 0; }
-          to { width: 100%; }
-        }
+  <!-- Subtitle -->
+  <text x="50%" y="70" text-anchor="middle" font-family="Inter, sans-serif" font-size="20" fill="white">
+    Frontend &amp; MERN Developer
+  </text>
 
-        @keyframes blink {
-          50% { border-color: transparent; }
-        }
-
-        .snowflake {
-          color: #fff;
-          font-size: 1em;
-          position: fixed;
-          top: -10%;
-          z-index: 9999;
-          user-select: none;
-          animation-name: snowflakes-fall, snowflakes-shake;
-          animation-duration: 10s, 3s;
-          animation-timing-function: linear, ease-in-out;
-          animation-iteration-count: infinite, infinite;
-        }
-
-        .snowflake:nth-of-type(1) { left: 10%; animation-delay: 1s, 1s; }
-        .snowflake:nth-of-type(2) { left: 20%; animation-delay: 6s, .5s; }
-        .snowflake:nth-of-type(3) { left: 30%; animation-delay: 4s, 2s; }
-        .snowflake:nth-of-type(4) { left: 40%; animation-delay: 2s, 2s; }
-        .snowflake:nth-of-type(5) { left: 50%; animation-delay: 8s, 3s; }
-        .snowflake:nth-of-type(6) { left: 60%; animation-delay: 6s, 2s; }
-        .snowflake:nth-of-type(7) { left: 70%; animation-delay: 2.5s, 1s; }
-        .snowflake:nth-of-type(8) { left: 80%; animation-delay: 1s, 0s; }
-        .snowflake:nth-of-type(9) { left: 90%; animation-delay: 3s, 1.5s; }
-
-        h1, h2 {
-          font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-            'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
-          margin: 0;
-          text-align: center;
-        }
-
-        h1 {
-          font-size: 4em;
-          font-weight: 900;
-          letter-spacing: -0.05em;
-          background: linear-gradient(270deg, #ff004c, #ff9900, #ffee00, #00ff9d, #0099ff, #8e2de2, #ff004c);
-          background-size: 400%;
-          background-clip: text;
-          -webkit-background-clip: text;
-          -webkit-text-fill-color: transparent;
-          animation: gradientText 5s ease infinite;
-        }
-
-        h2 {
-          font-size: 1.5em;
-          font-weight: 600;
-          margin-top: 0.3em;
-          color: white;
-          width: 0;
-          overflow: hidden;
-          border-right: 2px solid white;
-          white-space: nowrap;
-          margin-left: auto;
-          margin-right: auto;
-          animation: typing 4s steps(30, end) 1s forwards, blink .75s step-end infinite;
-        }
-      </style>
-
-      <h1>Hasanuzzaman Joy</h1>
-      <h2>Frontend &amp; MERN Developer</h2>
-
-      <div class="snowflake">❅</div>
-      <div class="snowflake">❅</div>
-      <div class="snowflake">❅</div>
-      <div class="snowflake">❅</div>
-      <div class="snowflake">❅</div>
-      <div class="snowflake">❅</div>
-      <div class="snowflake">❅</div>
-      <div class="snowflake">❅</div>
-      <div class="snowflake">❅</div>
-    </div>
-  </foreignObject>
+  <!-- Snowflakes -->
+  <text x="50" y="0" font-size="16" fill="white">❅
+    <animate attributeName="y" from="0" to="100" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="x" values="50;150;50" dur="5s" repeatCount="indefinite"/>
+  </text>
+  <text x="150" y="0" font-size="14" fill="white">❅
+    <animate attributeName="y" from="0" to="100" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="x" values="150;250;150" dur="6s" repeatCount="indefinite"/>
+  </text>
+  <text x="250" y="0" font-size="12" fill="white">❅
+    <animate attributeName="y" from="0" to="100" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="x" values="250;350;250" dur="4s" repeatCount="indefinite"/>
+  </text>
+  <text x="350" y="0" font-size="16" fill="white">❅
+    <animate attributeName="y" from="0" to="100" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="x" values="350;450;350" dur="7s" repeatCount="indefinite"/>
+  </text>
+  <text x="450" y="0" font-size="14" fill="white">❅
+    <animate attributeName="y" from="0" to="100" dur="5.5s" repeatCount="indefinite"/>
+    <animate attributeName="x" values="450;550;450" dur="5.5s" repeatCount="indefinite"/>
+  </text>
+  <text x="550" y="0" font-size="12" fill="white">❅
+    <animate attributeName="y" from="0" to="100" dur="6.5s" repeatCount="indefinite"/>
+    <animate attributeName="x" values="550;650;550" dur="6.5s" repeatCount="indefinite"/>
+  </text>
+  <text x="650" y="0" font-size="16" fill="white">❅
+    <animate attributeName="y" from="0" to="100" dur="4.5s" repeatCount="indefinite"/>
+    <animate attributeName="x" values="650;750;650" dur="4.5s" repeatCount="indefinite"/>
+  </text>
 </svg>
