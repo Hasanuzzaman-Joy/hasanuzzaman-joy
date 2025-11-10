@@ -3,13 +3,15 @@
 
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/Hasanuzzaman-Joy/hasanuzzaman-joy/main/name.svg" alt="Joy Frontend Developer" />
-   a frontend developer who loves creating interactive and user-friendly web applications 💻 . I enjoy tackling challenges, writing clean code, and learning new things while collaborating with others 🤝. I work with the MERN stack, TypeScript, and Next.js to build smooth and engaging web apps 🧩.
 </h1>
+<p>
+   a frontend developer who loves creating interactive and user-friendly web applications 💻 . I enjoy tackling challenges, writing clean code, and learning new things while collaborating with others 🤝. I work with the MERN stack, TypeScript, and Next.js to build smooth and engaging web apps 🧩.
+</p>
 
 | 🚀 Learning **full-stack development** and improving my coding skills  
-- 🌱 Working on **personal web projects** to gain hands-on experience  
-- 🎥 Planning to create **YouTube tutorials** for web development  
-- 🤝 Exploring ways to **collaborate and learn** from the developer community  | ![GIF](https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif) |
+🌱 Working on **personal web projects** to gain hands-on experience  
+🎥 Planning to create **YouTube tutorials** for web development  
+🤝 Exploring ways to **collaborate and learn** from the developer community  | ![GIF](https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif) |
 |------------|----------------|
 
 
