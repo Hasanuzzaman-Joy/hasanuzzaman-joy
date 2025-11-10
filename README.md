@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/Hasanuzzaman-Joy/hasanuzzaman-joy/main/name.svg" alt="Joy Frontend Developer" />
 </h1>
 
-<p align="center">
+<p align="center" style="font-size:16px; line-height:30px">
 A frontend developer who loves creating interactive and user-friendly web applications 💻. I enjoy tackling challenges, writing clean code, and learning new things while collaborating with others 🤝. I work with the MERN stack, TypeScript, and Next.js to build smooth and engaging web apps 🧩.
 </p>
 
@@ -18,8 +18,8 @@ A frontend developer who loves creating interactive and user-friendly web applic
 <!-- List + GIF in one block -->
 <table>
   <tr>
-    <td valign="top" style="padding:15px; text-align:left; color:white;">
-      <ul style="padding-left: 20px;">
+    <td valign="top" style="padding:25px; text-align:left; color:white;">
+      <ul>
         <li>🚀 Learning <strong>full-stack development</strong> and improving coding skills</li><br>
         <li>🌱 Working on <strong>personal web projects</strong> to gain hands-on experience</li><br>
         <li>🎥 Planning to create <strong>YouTube tutorials</strong> for web development</li><br>
