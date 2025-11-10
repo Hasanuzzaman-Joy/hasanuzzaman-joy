@@ -5,9 +5,6 @@
   <img src="https://raw.githubusercontent.com/Hasanuzzaman-Joy/hasanuzzaman-joy/main/name.svg" alt="Joy Frontend Developer" />
 </h1>
 
-##  Hasanuzzaman Joy  
-### 💻 Frontend & MERN Developer
-
 ---
 
 ## 🧑‍💼 About Me
