@@ -5,9 +5,8 @@
   <img src="https://raw.githubusercontent.com/Hasanuzzaman-Joy/hasanuzzaman-joy/main/name.svg" alt="Joy Frontend Developer" />
 </h1>
 
-| 💻 About Me | ![GIF](https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif) |
+| 💻 Frontend developer who creates fun and user-friendly web experiences<br>🧩 Enjoy tackling challenges and solving problems with clean code<br>📚 Always learning new things while collaborating with others 🤝<br>🚀 Work with MERN stack, TypeScript, and Next.js to build smooth web apps  | ![GIF](https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif) |
 |------------|----------------|
-| 💻 Frontend developer who creates fun and user-friendly web experiences<br>🧩 Enjoy tackling challenges and solving problems with clean code<br>📚 Always learning new things while collaborating with others 🤝<br>🚀 Work with MERN stack, TypeScript, and Next.js to build smooth web apps | |
 
 
 
