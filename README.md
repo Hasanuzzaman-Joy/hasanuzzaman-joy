@@ -4,15 +4,23 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/Hasanuzzaman-Joy/hasanuzzaman-joy/main/name.svg" alt="Joy Frontend Developer" />
 </h1>
+
 <p align="center">
-A frontend developer who loves creating interactive and user-friendly web applications  . I enjoy tackling challenges, writing clean code, and learning new things while collaborating with others. I work with the MERN stack, TypeScript, and Next.js to build smooth and engaging web apps 🧩.
+A frontend developer who loves creating interactive and user-friendly web applications 💻. I enjoy tackling challenges, writing clean code, and learning new things while collaborating with others 🤝. I work with the MERN stack, TypeScript, and Next.js to build smooth and engaging web apps 🧩.
 </p>
 
+---
+
+## 🔥 Current Activities
+
+<h3 align="center">🔥 Current Activities</h3>
+
+<div align="center">
+
+<!-- List + GIF in one block -->
 <table>
   <tr>
-    <!-- Left Column: Current Activities -->
-    <td valign="top" style="padding: 15px; border: 1px solid #ccc; border-radius: 10px; background-color:#1e1e1e; color:white; width:50%;">
-      <h3 style="text-align:center;">🔥 Current Activities</h3>
+    <td valign="top" style="padding:15px; text-align:left; color:white;">
       <ul>
         <li>🚀 Learning <strong>full-stack development</strong> and improving coding skills</li>
         <li>🌱 Working on <strong>personal web projects</strong> to gain hands-on experience</li>
@@ -20,20 +28,24 @@ A frontend developer who loves creating interactive and user-friendly web applic
         <li>🤝 Exploring ways to <strong>collaborate and learn</strong> from the developer community</li>
       </ul>
     </td>
-    <td valign="top" style="padding: 15px; border: 1px solid #ccc; border-radius: 10px; background-color:#1e1e1e; color:white; text-align:center; width:50%;">
-      <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="100%" alt="Coding GIF"/>
+    <td valign="top" style="padding:15px; text-align:center;">
+      <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300" alt="Coding GIF"/>
     </td>
   </tr>
 </table>
 
+</div>
+
+---
+
 ## 🚀 Tech Stack
 
-<h3 align="center" > 🚀 Languages - Frameworks - Tools - Libraries - Workspace 🚀</h3>
+<h3 align="center">🚀 Languages - Frameworks - Tools - Libraries - Workspace 🚀</h3>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,typescript,react,nextjs,nodejs,express,mongodb,firebase,vercel,git,github,vscode,figma,postman" />
 </p>
 
-  
 <hr>
 
 ## 🌐 Connect With Me
@@ -51,6 +63,3 @@ A frontend developer who loves creating interactive and user-friendly web applic
 
 ---
 [![](https://visitcount.itsvg.in/api?id=hasanuzzaman-joy&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
