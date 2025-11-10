@@ -13,6 +13,7 @@ A frontend developer who loves creating interactive and user-friendly web applic
     <!-- Left Column: Current Activities -->
     <td valign="top" style="padding: 15px; border: 1px solid #ccc; border-radius: 10px; background-color:#1e1e1e; color:white; width:50%;">
       <h3 style="text-align:center;">🔥 Current Activities</h3>
+      ---
       <ul>
         <li>🚀 Learning <strong>full-stack development</strong> and improving coding skills</li>
         <li>🌱 Working on <strong>personal web projects</strong> to gain hands-on experience</li>
