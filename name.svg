@@ -14,14 +14,11 @@
           50% { transform: translateX(80px); }
         }
 
-        /* typing & erasing with pause */
+        /* typing animation: uses alternate to type then erase */
         @keyframes typing {
-          0% { width: 0ch; }
-          40% { width: 23ch; } /* perfect fit for 'Frontend & MERN Developer' */
-          60% { width: 23ch; } /* short pause before erase */
-          100% { width: 0ch; }
+          from { width: 0ch; }
+          to   { width: 28ch; } /* adjust ch to match text length */
         }
-
         @keyframes blink {
           50% { border-color: transparent; }
         }
@@ -68,6 +65,7 @@
           animation: gradientText 5s ease infinite;
         }
 
+        /* subtitle: white, typing & erasing infinitely */
         h2 {
           font-size: 1.5em;
           font-weight: 600;
@@ -75,14 +73,16 @@
           color: white;
           overflow: hidden;
           white-space: nowrap;
-          width: 0ch;
+          width: 0ch;              /* starts hidden */
           display: inline-block;
           border-right: 2px solid white;
+          /* typing then erasing (alternate) */
           animation:
-            typing 6s steps(23,end) infinite,
+            typing 4s steps(28,end) infinite alternate,
             blink .75s step-end infinite;
         }
 
+        /* center the text block */
         .subtitle-wrap {
           display: flex;
           justify-content: center;
