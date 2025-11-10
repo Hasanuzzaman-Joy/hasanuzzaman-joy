@@ -14,6 +14,18 @@
           50% { transform: translateX(80px); }
         }
 
+        /* typing & erasing with pause */
+        @keyframes typing {
+          0% { width: 0ch; }
+          40% { width: 23ch; } /* perfect fit for 'Frontend & MERN Developer' */
+          60% { width: 23ch; } /* short pause before erase */
+          100% { width: 0ch; }
+        }
+
+        @keyframes blink {
+          50% { border-color: transparent; }
+        }
+
         .snowflake {
           color: #fff;
           font-size: 1em;
@@ -26,6 +38,7 @@
           animation-timing-function: linear, ease-in-out;
           animation-iteration-count: infinite, infinite;
         }
+
         .snowflake:nth-of-type(1) { left: 10%; animation-delay: 1s, 1s; }
         .snowflake:nth-of-type(2) { left: 20%; animation-delay: 6s, .5s; }
         .snowflake:nth-of-type(3) { left: 30%; animation-delay: 4s, 2s; }
@@ -41,29 +54,43 @@
             'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
           margin: 0;
           text-align: center;
-          background: linear-gradient(270deg, #3828ca 0%, #ff004c 100%);
-          background-size: 200%;
-          background-clip: text;
-          -webkit-background-clip: text;
-          -webkit-text-fill-color: transparent;
-          animation: gradientText 3s ease infinite;
         }
 
         h1 {
           font-size: 4em;
           font-weight: 900;
           letter-spacing: -0.05em;
+          background: linear-gradient(270deg, #ff004c, #ff9900, #ffee00, #00ff9d, #0099ff, #8e2de2, #ff004c);
+          background-size: 400%;
+          background-clip: text;
+          -webkit-background-clip: text;
+          -webkit-text-fill-color: transparent;
+          animation: gradientText 5s ease infinite;
         }
 
         h2 {
           font-size: 1.5em;
           font-weight: 600;
           margin-top: 0.3em;
+          color: white;
+          overflow: hidden;
+          white-space: nowrap;
+          width: 0ch;
+          display: inline-block;
+          border-right: 2px solid white;
+          animation:
+            typing 6s steps(23,end) infinite,
+            blink .75s step-end infinite;
+        }
+
+        .subtitle-wrap {
+          display: flex;
+          justify-content: center;
         }
       </style>
 
       <h1>Hasanuzzaman Joy</h1>
-      <h2>Frontend &amp; MERN Developer</h2>
+      <div class="subtitle-wrap"><h2>Frontend &amp; MERN Developer</h2></div>
 
       <div class="snowflake">❅</div>
       <div class="snowflake">❅</div>
