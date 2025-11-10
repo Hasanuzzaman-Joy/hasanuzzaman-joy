@@ -40,23 +40,23 @@ A frontend developer who loves creating interactive and user-friendly web applic
 
 ## 🚀 Tech Stack
 
-<h3 align="center">Languages</h3>
-<p align="center">
+<h3>Languages</h3>
+<p>
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript" />
 </p>
 
-<h3 align="center">Frontend Frameworks & Libraries</h3>
-<p align="center">
+<h3>Frontend Frameworks & Libraries</h3>
+<p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind" />
 </p>
 
-<h3 align="center">Backend & Databases</h3>
-<p align="center">
+<h3>Backend & Databases</h3>
+<p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
 </p>
 
-<h3 align="center">Tools & Platforms</h3>
-<p align="center">
+<h3>Tools & Platforms</h3>
+<p>
   <img src="https://skillicons.dev/icons?i=vercel,git,github,vscode,figma,postman" />
 </p>
 
