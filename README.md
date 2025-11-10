@@ -5,21 +5,23 @@
   <img src="https://raw.githubusercontent.com/Hasanuzzaman-Joy/hasanuzzaman-joy/main/name.svg" alt="Joy Frontend Developer" />
 </h1>
 
-<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <!-- About Me Text -->
+<div style="display: flex; align-items: flex-start; gap: 40px; flex-wrap: wrap;">
+  <!-- About Me Text (Left Column) -->
   <div style="flex: 1; min-width: 250px;">
-    <p>
-      I’m a frontend developer who loves creating fun and user-friendly web experiences 📚. 
-      I enjoy tackling challenges, writing clean code, and learning new things while collaborating with others 🤝. 
-      I work with the MERN stack, TypeScript, and Next.js to build smooth and interactive web apps 🧩.
-    </p>
+    <ul>
+      <li>💻 Frontend developer who creates fun and user-friendly web experiences</li>
+      <li>🧩 Enjoy tackling challenges and solving problems with clean code</li>
+      <li>📚 Always learning new things while collaborating with others 🤝</li>
+      <li>🚀 Work with MERN stack, TypeScript, and Next.js to build smooth web apps</li>
+    </ul>
   </div>
 
-  <!-- GIF Image -->
+  <!-- GIF Image (Right Column) -->
   <div style="flex: 1; min-width: 250px; text-align: center;">
     <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300" />
   </div>
 </div>
+
 
 
 ---
